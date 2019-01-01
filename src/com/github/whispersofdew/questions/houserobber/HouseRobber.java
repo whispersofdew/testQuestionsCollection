@@ -1,4 +1,4 @@
-package com.github.whispersofdew.questions;
+package com.github.whispersofdew.questions.houserobber;
 
 // You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed,
 // the only constraint stopping you from robbing each of them is that adjacent houses have security system connected
@@ -9,6 +9,7 @@ package com.github.whispersofdew.questions;
 
 
 public class HouseRobber {
+
     public int rob(int[] nums) {
         if(nums.length == 0) {
             return 0;

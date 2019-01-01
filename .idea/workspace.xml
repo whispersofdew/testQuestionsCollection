@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3680dcb2-c3da-45e2-a786-ccf7939fc951" name="Default Changelist" comment="" />
+    <list default="true" id="3680dcb2-c3da-45e2-a786-ccf7939fc951" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/github/whispersofdew/algorithms/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/github/whispersofdew/questions/firstchar/FirstUniqueCharacterInAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/github/whispersofdew/questions/firstchar/FirstUniqueCharacterInAString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/github/whispersofdew/questions/houserobber/HouseRobber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/github/whispersofdew/questions/houserobber/HouseRobber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/github/whispersofdew/questions/linkedcycle/LinkedListCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/github/whispersofdew/questions/linkedcycle/LinkedListCycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/github/whispersofdew/questions/linkedcycle/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/github/whispersofdew/questions/linkedcycle/ListNode.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,11 +18,50 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/github/whispersofdew/questions/houserobber/HouseRobber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/github/whispersofdew/questions/HouseRobber.java">
+        <entry file="file://$PROJECT_DIR$/src/com/github/whispersofdew/questions/firstchar/FirstUniqueCharacterInAString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="56" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
+              <folding>
+                <element signature="e#463#483#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/github/whispersofdew/algorithms/BubbleSort.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="7" selection-end-column="60" />
+              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/github/whispersofdew/questions/linkedcycle/LinkedListCycle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/github/whispersofdew/questions/linkedcycle/ListNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -29,10 +75,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/github/whispersofdew/questions/HouseRobber.java" />
+        <option value="$PROJECT_DIR$/src/com/github/whispersofdew/questions/HouseRobber/HouseRobber.java" />
+        <option value="$PROJECT_DIR$/src/com/github/whispersofdew/questions/LinkedListCycle/LinkedListCycle.java" />
+        <option value="$PROJECT_DIR$/src/com/github/whispersofdew/questions/linkedListCycle/LinkedListCycle.java" />
+        <option value="$PROJECT_DIR$/src/com/github/whispersofdew/questions/linkedListCycle/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/com/github/whispersofdew/questions/linkedlistcycle/LinkedListCycle.java" />
+        <option value="$PROJECT_DIR$/src/com/github/whispersofdew/questions/linkedcycle/LinkedListCycle.java" />
+        <option value="$PROJECT_DIR$/src/com/github/whispersofdew/questions/firstchar/FirstUniqueCharacterInAString.java" />
       </list>
     </option>
   </component>
@@ -40,6 +96,7 @@
     <option name="width" value="1920" />
     <option name="height" value="1200" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -53,6 +110,32 @@
               <item name="testQuestions" type="b2602c69:ProjectViewProjectNode" />
               <item name="testQuestions" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="testQuestions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testQuestions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testQuestions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testQuestions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="whispersofdew" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testQuestions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testQuestions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="whispersofdew" type="462c0819:PsiDirectoryNode" />
+              <item name="questions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testQuestions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testQuestions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="whispersofdew" type="462c0819:PsiDirectoryNode" />
+              <item name="questions" type="462c0819:PsiDirectoryNode" />
+              <item name="firstchar" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -63,9 +146,14 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546360524807" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546363690248" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.github.whispersofdew.questions.HouseRobber" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -89,15 +177,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546360186731</updated>
-      <workItem from="1546360190412" duration="332000" />
+      <workItem from="1546360190412" duration="2417000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="332000" />
+    <option name="totallyTimeSpent" value="2417000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1103" extended-state="6" />
+    <frame x="0" y="23" width="1920" height="1101" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
@@ -136,10 +224,41 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/github/whispersofdew/questions/HouseRobber.java">
+    <entry file="file://$PROJECT_DIR$/src/com/github/whispersofdew/questions/linkedcycle/LinkedListCycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/github/whispersofdew/questions/linkedcycle/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/github/whispersofdew/questions/houserobber/HouseRobber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/github/whispersofdew/algorithms/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="7" selection-end-column="60" />
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/github/whispersofdew/questions/firstchar/FirstUniqueCharacterInAString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="56" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
+          <folding>
+            <element signature="e#463#483#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -1,6 +1,7 @@
-package com.github.whispersofdew.questions.linkedListCycle;
+package com.github.whispersofdew.questions.linkedcycle;
 
 public class ListNode {
+    
     int val;
     ListNode next;
     ListNode(int x) {

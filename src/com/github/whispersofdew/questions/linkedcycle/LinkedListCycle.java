@@ -1,4 +1,4 @@
-package com.github.whispersofdew.questions.linkedListCycle;
+package com.github.whispersofdew.questions.linkedcycle;
 
 //Given a linked list, determine if it has a cycle in it.
 //Follow up:
@@ -16,6 +16,7 @@ package com.github.whispersofdew.questions.linkedListCycle;
  */
 
 public class LinkedListCycle {
+
     public boolean hasCycle(ListNode head) {
         if(head == null || head.next == null) {
             return false;
