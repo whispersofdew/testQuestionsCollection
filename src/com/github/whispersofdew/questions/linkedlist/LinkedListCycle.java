@@ -1,4 +1,4 @@
-package com.github.whispersofdew.questions.linkedcycle;
+package com.github.whispersofdew.questions.linkedlist;
 
 //Given a linked list, determine if it has a cycle in it.
 //Follow up:
