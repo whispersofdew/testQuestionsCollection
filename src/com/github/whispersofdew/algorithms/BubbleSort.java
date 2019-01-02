@@ -13,8 +13,6 @@ public class BubbleSort {
 
         bubbleSort(intArray);
 
-        System.out.println("");
-
         System.out.println("Array After Bubble Sort");
         for(int i=0; i < intArray.length; i++){
             System.out.print(intArray[i] + " ");
