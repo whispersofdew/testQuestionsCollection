@@ -15,11 +15,11 @@ public class TrappingRainWater {
         int leftMax = 0;
         int rightMax = 0;
 
-        while(leftIndex <= rightIndex) {
+        while (leftIndex <= rightIndex) {
             leftMax = Math.max(leftMax, height[leftIndex]);
             rightMax = Math.max(rightMax, height[rightIndex]);
 
-            if(leftMax < rightMax) {
+            if (leftMax < rightMax) {
                 water += leftMax - height[leftIndex];
                 leftIndex++;
             } else {
@@ -30,3 +30,4 @@ public class TrappingRainWater {
 
         return water;
     }
+}
