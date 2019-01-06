@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3680dcb2-c3da-45e2-a786-ccf7939fc951" name="Default Changelist" comment="" />
-    <list id="e6ea4220-ec0d-4e7c-a75c-e543fdfe4dc4" name="//TinyURL is a URL shortening service where you enter a URL such as https://leetcode.com/problems/design-tinyurl  question" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,11 +20,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/github/whispersofdew/questions/firstchar/FirstUniqueCharacterInAString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="435">
+              <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="18" />
               <folding>
                 <element signature="e#463#483#0" expanded="true" />
               </folding>
@@ -60,7 +59,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/github/whispersofdew/questions/encode/EncodeAndDecodeTinyURL.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
@@ -147,7 +146,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -172,6 +170,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="whispersofdew" type="462c0819:PsiDirectoryNode" />
               <item name="questions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testQuestions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testQuestions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="whispersofdew" type="462c0819:PsiDirectoryNode" />
+              <item name="questions" type="462c0819:PsiDirectoryNode" />
+              <item name="encode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testQuestions" type="b2602c69:ProjectViewProjectNode" />
@@ -210,13 +216,14 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546675568708" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546768614226" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -244,17 +251,25 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="3680dcb2-c3da-45e2-a786-ccf7939fc951" name="Default Changelist" comment="" />
-      <changelist id="e6ea4220-ec0d-4e7c-a75c-e543fdfe4dc4" name="//TinyURL is a URL shortening service where you enter a URL such as https://leetcode.com/problems/design-tinyurl  question" comment="" />
+      <changelist id="" name="//TinyURL is a URL shortening service where you enter a URL such as https://leetcode.com/problems/design-tinyurl  question" comment="" />
       <created>1546360186731</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546360186731</updated>
-      <workItem from="1546360190412" duration="6521000" />
+      <workItem from="1546360190412" duration="7208000" />
     </task>
+    <task id="LOCAL-00001" summary="URL Encode and Decode question">
+      <created>1546675622850</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1546675622850</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6521000" />
+    <option name="totallyTimeSpent" value="7208000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1101" extended-state="6" />
@@ -265,14 +280,16 @@
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="SonarLint" />
+      <window_info anchor="bottom" id="Run with VisualVM" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.32969216" />
+      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.32969216" />
+      <window_info anchor="bottom" id="Debug with VisualVM" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -320,6 +337,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="URL Encode and Decode question" />
+    <option name="LAST_COMMIT_MESSAGE" value="URL Encode and Decode question" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/github/whispersofdew/algorithms/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -339,16 +360,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/github/whispersofdew/questions/firstchar/FirstUniqueCharacterInAString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#463#483#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -388,6 +399,16 @@
             <element signature="e#577#593#0" expanded="true" />
             <element signature="e#1243#1244#0" expanded="true" />
             <element signature="e#1318#1319#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/github/whispersofdew/questions/firstchar/FirstUniqueCharacterInAString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="18" />
+          <folding>
+            <element signature="e#463#483#0" expanded="true" />
           </folding>
         </state>
       </provider>
