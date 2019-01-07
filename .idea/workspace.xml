@@ -20,7 +20,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/github/whispersofdew/questions/firstchar/FirstUniqueCharacterInAString.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="435">
@@ -28,6 +28,15 @@
               <folding>
                 <element signature="e#463#483#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/github/whispersofdew/questions/reversestring/ReverseWordsInAString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -132,6 +141,7 @@
         <option value="$PROJECT_DIR$/src/com/github/whispersofdew/questions/islands/NumberOfIslands.java" />
         <option value="$PROJECT_DIR$/src/com/github/whispersofdew/questions/rainwater/TrappingRainWater.java" />
         <option value="$PROJECT_DIR$/src/com/github/whispersofdew/questions/encode/EncodeAndDecodeTinyURL.java" />
+        <option value="$PROJECT_DIR$/src/com/github/whispersofdew/questions/reversestring/ReverseWordsInAString.java" />
       </list>
     </option>
   </component>
@@ -177,14 +187,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="whispersofdew" type="462c0819:PsiDirectoryNode" />
               <item name="questions" type="462c0819:PsiDirectoryNode" />
-              <item name="encode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testQuestions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testQuestions" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="whispersofdew" type="462c0819:PsiDirectoryNode" />
-              <item name="questions" type="462c0819:PsiDirectoryNode" />
               <item name="firstchar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -223,7 +225,7 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546768614226" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546854052879" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -256,7 +258,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546360186731</updated>
-      <workItem from="1546360190412" duration="7208000" />
+      <workItem from="1546360190412" duration="7629000" />
     </task>
     <task id="LOCAL-00001" summary="URL Encode and Decode question">
       <created>1546675622850</created>
@@ -265,14 +267,22 @@
       <option name="project" value="LOCAL" />
       <updated>1546675622850</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Reverse Words question">
+      <created>1546768645823</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1546768645823</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7208000" />
+    <option name="totallyTimeSpent" value="7629000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1101" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -339,7 +349,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="URL Encode and Decode question" />
-    <option name="LAST_COMMIT_MESSAGE" value="URL Encode and Decode question" />
+    <MESSAGE value="Reverse Words question" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reverse Words question" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/github/whispersofdew/algorithms/BubbleSort.java">
@@ -410,6 +421,13 @@
           <folding>
             <element signature="e#463#483#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/github/whispersofdew/questions/reversestring/ReverseWordsInAString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
