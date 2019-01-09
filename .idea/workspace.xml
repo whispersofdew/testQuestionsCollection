@@ -58,11 +58,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/github/whispersofdew/questions/binarytree/TreeNode.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/github/whispersofdew/questions/sum/Sum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1010#1019#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -108,15 +121,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/github/whispersofdew/questions/linkedlist/ListNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -152,6 +156,7 @@
         <option value="$PROJECT_DIR$/src/com/github/whispersofdew/questions/reversestring/ReverseWordsInAString.java" />
         <option value="$PROJECT_DIR$/src/com/github/whispersofdew/questions/binarytree/BinaryTreeLevelOrderTraversal.java" />
         <option value="$PROJECT_DIR$/src/com/github/whispersofdew/questions/binarytree/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/com/github/whispersofdew/questions/sum/Sum.java" />
       </list>
     </option>
   </component>
@@ -197,14 +202,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="whispersofdew" type="462c0819:PsiDirectoryNode" />
               <item name="questions" type="462c0819:PsiDirectoryNode" />
-              <item name="binarytree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testQuestions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testQuestions" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="whispersofdew" type="462c0819:PsiDirectoryNode" />
-              <item name="questions" type="462c0819:PsiDirectoryNode" />
               <item name="firstchar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -243,7 +240,7 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546895230945" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547014810527" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -276,7 +273,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546360186731</updated>
-      <workItem from="1546360190412" duration="8155000" />
+      <workItem from="1546360190412" duration="8474000" />
     </task>
     <task id="LOCAL-00001" summary="URL Encode and Decode question">
       <created>1546675622850</created>
@@ -299,11 +296,18 @@
       <option name="project" value="LOCAL" />
       <updated>1546854071282</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="3Sum question">
+      <created>1546895243645</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1546895243645</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8155000" />
+    <option name="totallyTimeSpent" value="8474000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1101" extended-state="6" />
@@ -376,7 +380,8 @@
     <MESSAGE value="URL Encode and Decode question" />
     <MESSAGE value="Reverse Words question" />
     <MESSAGE value="Binary Tree question" />
-    <option name="LAST_COMMIT_MESSAGE" value="Binary Tree question" />
+    <MESSAGE value="3Sum question" />
+    <option name="LAST_COMMIT_MESSAGE" value="3Sum question" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/github/whispersofdew/algorithms/BubbleSort.java">
@@ -474,6 +479,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/github/whispersofdew/questions/sum/Sum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1010#1019#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
