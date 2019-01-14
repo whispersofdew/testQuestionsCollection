@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3680dcb2-c3da-45e2-a786-ccf7939fc951" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/github/whispersofdew/questions/lettercombinations/LetterCombinationsOfAPhoneNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3680dcb2-c3da-45e2-a786-ccf7939fc951" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,8 +35,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/github/whispersofdew/questions/lettercombinations/LetterCombinationsOfAPhoneNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
+            <state relative-caret-position="81">
+              <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#580#588#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -147,10 +148,11 @@
         <option value="$PROJECT_DIR$/src/com/github/whispersofdew/questions/anagram/GroupAnagrams.java" />
         <option value="$PROJECT_DIR$/src/com/github/whispersofdew/questions/largestelement/KthLargestElementInAnArray.java" />
         <option value="$PROJECT_DIR$/src/com/github/whispersofdew/questions/sum/SumSmaller.java" />
+        <option value="$PROJECT_DIR$/src/com/github/whispersofdew/questions/lettercombinations/LetterCombinationsOfAPhoneNumber.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1920" />
     <option name="height" value="1103" />
@@ -213,7 +215,7 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547378236147" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547447707628" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -251,7 +253,7 @@
       <workItem from="1547102312837" duration="1654000" />
       <workItem from="1547188144529" duration="716000" />
       <workItem from="1547296682947" duration="198000" />
-      <workItem from="1547377869358" duration="143000" />
+      <workItem from="1547377869358" duration="294000" />
     </task>
     <task id="LOCAL-00001" summary="URL Encode and Decode question">
       <created>1546675622850</created>
@@ -323,11 +325,18 @@
       <option name="project" value="LOCAL" />
       <updated>1547296844701</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Letter Combination question">
+      <created>1547378254873</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1547378254873</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13267000" />
+    <option name="totallyTimeSpent" value="13418000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
@@ -420,7 +429,8 @@
     <MESSAGE value="Anagrams question" />
     <MESSAGE value="kth Largest Element in Array question" />
     <MESSAGE value="3 Sum Smaller question" />
-    <option name="LAST_COMMIT_MESSAGE" value="3 Sum Smaller question" />
+    <MESSAGE value="Letter Combination question" />
+    <option name="LAST_COMMIT_MESSAGE" value="Letter Combination question" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/github/whispersofdew/algorithms/BubbleSort.java">
@@ -545,6 +555,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="215">
           <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/github/whispersofdew/questions/lettercombinations/LetterCombinationsOfAPhoneNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#580#588#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
