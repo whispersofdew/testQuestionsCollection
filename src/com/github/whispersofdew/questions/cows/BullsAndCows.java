@@ -23,6 +23,7 @@ package com.github.whispersofdew.questions.cows;
 //Note: You may assume that the secret number and your friend's guess only contain digits, and their lengths are always equal.
 
 class BullsAndCows {
+
     public String getHint(String secret, String guess) {
         int bulls = 0;
         int cows = 0;
