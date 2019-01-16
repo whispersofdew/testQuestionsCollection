@@ -14,32 +14,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/github/whispersofdew/questions/sum/SumSmaller.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/github/whispersofdew/questions/lettercombinations/LetterCombinationsOfAPhoneNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
+            <state relative-caret-position="330">
               <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#632#640#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/github/whispersofdew/questions/bomb/BombEnemy.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="537">
               <caret line="77" column="1" selection-start-line="77" selection-start-column="1" selection-end-line="77" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/github/whispersofdew/questions/cows/BullsAndCows.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -149,10 +148,11 @@
         <option value="$PROJECT_DIR$/src/com/github/whispersofdew/questions/sum/SumSmaller.java" />
         <option value="$PROJECT_DIR$/src/com/github/whispersofdew/questions/lettercombinations/LetterCombinationsOfAPhoneNumber.java" />
         <option value="$PROJECT_DIR$/src/com/github/whispersofdew/questions/bomb/BombEnemy.java" />
+        <option value="$PROJECT_DIR$/src/com/github/whispersofdew/questions/cows/BullsAndCows.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1920" />
     <option name="height" value="1103" />
@@ -199,15 +199,15 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547571566903" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547620204741" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -247,6 +247,7 @@
       <workItem from="1547296682947" duration="198000" />
       <workItem from="1547377869358" duration="294000" />
       <workItem from="1547447552085" duration="630000" />
+      <workItem from="1547571492986" duration="1209000" />
     </task>
     <task id="LOCAL-00001" summary="URL Encode and Decode question">
       <created>1546675622850</created>
@@ -332,14 +333,28 @@
       <option name="project" value="LOCAL" />
       <updated>1547447729592</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Bulls and Cows question">
+      <created>1547571554549</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1547571554550</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Bulls and Cows question">
+      <created>1547571606750</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1547571606750</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14048000" />
+    <option name="totallyTimeSpent" value="15257000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1103" extended-state="0" />
+    <frame x="0" y="23" width="1920" height="1103" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -348,7 +363,7 @@
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info id="Learn" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.26066098" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.2630458" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info id="DB Browser" order="8" />
       <window_info anchor="bottom" id="Terminal" order="0" />
@@ -357,7 +372,7 @@
       <window_info anchor="bottom" id="SonarLint" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="5" />
-      <window_info anchor="bottom" id="Version Control" order="6" visible="true" weight="0.3270565" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="6" visible="true" weight="0.3264095" />
       <window_info anchor="bottom" id="Find" order="7" />
       <window_info anchor="bottom" id="Run" order="8" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
@@ -432,7 +447,8 @@
     <MESSAGE value="3 Sum Smaller question" />
     <MESSAGE value="Letter Combination question" />
     <MESSAGE value="Bomb Enemy question" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bomb Enemy question" />
+    <MESSAGE value="Bulls and Cows question" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bulls and Cows question" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/github/whispersofdew/algorithms/BubbleSort.java">
@@ -511,6 +527,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/github/whispersofdew/questions/lettercombinations/LetterCombinationsOfAPhoneNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/github/whispersofdew/questions/bestbuy/BestTimeToBuyAndSellStock.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -560,21 +586,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/github/whispersofdew/questions/lettercombinations/LetterCombinationsOfAPhoneNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#632#640#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/github/whispersofdew/questions/bomb/BombEnemy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="537">
           <caret line="77" column="1" selection-start-line="77" selection-start-column="1" selection-end-line="77" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/github/whispersofdew/questions/cows/BullsAndCows.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
         </state>
       </provider>
     </entry>
