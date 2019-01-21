@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3680dcb2-c3da-45e2-a786-ccf7939fc951" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/github/whispersofdew/questions/sum/CombinationSumIV.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3680dcb2-c3da-45e2-a786-ccf7939fc951" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -203,22 +200,6 @@
               <item name="whispersofdew" type="462c0819:PsiDirectoryNode" />
               <item name="questions" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="testQuestions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testQuestions" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="whispersofdew" type="462c0819:PsiDirectoryNode" />
-              <item name="questions" type="462c0819:PsiDirectoryNode" />
-              <item name="binarytree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testQuestions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testQuestions" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="whispersofdew" type="462c0819:PsiDirectoryNode" />
-              <item name="questions" type="462c0819:PsiDirectoryNode" />
-              <item name="sum" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -230,7 +211,7 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548001923613" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548053452521" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -274,7 +255,7 @@
       <workItem from="1547724828627" duration="183000" />
       <workItem from="1547816728651" duration="237000" />
       <workItem from="1547924093710" duration="175000" />
-      <workItem from="1548001884353" duration="40000" />
+      <workItem from="1548001884353" duration="336000" />
     </task>
     <task id="LOCAL-00001" summary="URL Encode and Decode question">
       <created>1546675622850</created>
@@ -402,15 +383,21 @@
       <option name="project" value="LOCAL" />
       <updated>1547924236774</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Another Sum question">
+      <created>1548001951936</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1548001951936</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16100000" />
+    <option name="totallyTimeSpent" value="16396000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="Image Layers" order="1" />
@@ -506,7 +493,8 @@
     <MESSAGE value="Array question" />
     <MESSAGE value="Clone Graph question" />
     <MESSAGE value="Binary Tree question" />
-    <option name="LAST_COMMIT_MESSAGE" value="Binary Tree question" />
+    <MESSAGE value="Another Sum question" />
+    <option name="LAST_COMMIT_MESSAGE" value="Another Sum question" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/github/whispersofdew/algorithms/BubbleSort.java">
