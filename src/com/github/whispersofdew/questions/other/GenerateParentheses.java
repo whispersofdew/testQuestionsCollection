@@ -16,6 +16,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 class GenerateParentheses {
+
   public List<String> generateParenthesis(int n) {
     List<String> result = new ArrayList<String>();
     generateParenthesisRecursive(result, "", 0, 0, n);
